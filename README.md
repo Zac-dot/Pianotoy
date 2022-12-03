@@ -18,6 +18,7 @@ The pitch of the notes that are played can be altered through the ```Note``` but
 The program was also used as a final project for my C++ class, specifically CS 361. 
 As such, some additional features were added in order to hit what was required, such as the ```Shapes``` button in the menubar.
 While these do not have much to do with a keyboard, they were added for that reason, and can be removed if desired.
+
 ---
 ## 2. Running the Application
 
