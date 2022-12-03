@@ -23,7 +23,7 @@ While these do not have much to do with a keyboard, they were added for that rea
 ## 2. Running the Application
 
 In order to run the application, it requires a Windows installation with
-```MSYS2 MINGW64```installed. For either 1.1 or 1.2, the following
+```MSYS2 MINGW64```installed. For either 2.1 or 2.2, the following
 must be downloaded and prepped in the ```MSYS2 MINGW64``` environment.
 
 To prep you must open the ```MSYS2 MINGW64```terminal and run the following commands:
