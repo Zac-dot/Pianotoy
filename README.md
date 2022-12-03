@@ -87,7 +87,7 @@ or nested functions.
 - Make sure the audio files are in the structure as shown in 2.1. **It is also required that you are running
 Windows**, if you do not, then there is a chance audio will not play without changing the source code.
 
-#### Why does ```Gtk-CRITICAL **: 18:11:46.290: gtk_main_quit: assertion 'main_loops != NULL' failed``` show up in the console?
+#### Why does ```Gtk-CRITICAL **: xx:xx:xx.xxx: gtk_main_quit: assertion 'main_loops != NULL' failed``` show up in the console?
 - This is because clicking the ```X``` button is undefined in the program. GTK will try to insinuate its to close
 the program, and thus will throw the error. This is not a problem, and can be ignored.
 
