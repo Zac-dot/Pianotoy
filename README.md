@@ -1,3 +1,5 @@
+# Pianotoy in C++ using GTK
+![Pianotoy Example](pianotoyexample.gif)
 ---
 # Prerequisites
 1. About the Program
